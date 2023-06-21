@@ -1,1 +1,1 @@
-# GradeAce
+GradeAce is a Grade Point Average (GPA) Calculator, this mini-project is implemented mainly using HTML/CSS/JS/PHP/MYSQL. It has a simple and pleasant user interface using Bootstrap Framework. It consists of user-friendly features and functionalities. Users can dynamically manage the Grade Table as the reference of the grade scale and letters such as (3.75) as the scale and (A) as the grade letter. Users can simply update the table by providing the required input fields in each table row which consist of Letter Grade and Grade Scale fields.
